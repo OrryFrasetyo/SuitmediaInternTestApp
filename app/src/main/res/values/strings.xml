@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Suitmedia Intern Test App</string>
+    <string name="photo">Photo</string>
+    <string name="name">Name</string>
+    <string name="palindrome">Palidrome</string>
+    <string name="check">CHECK</string>
+    <string name="next">NEXT\n</string>
+    <string name="welcome">Welcome</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="back">Back</string>
+    <string name="selected_user_name">Selected User Name</string>
+    <string name="choose_a_user">Choose a User</string>
+    <string name="third_screen">Third Screen</string>
+    <string name="no_data_available">No data available</string>
+    <string name="item_photo">Item Photo</string>
+</resources>
