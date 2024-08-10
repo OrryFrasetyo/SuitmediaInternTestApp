@@ -70,7 +70,7 @@
             android:overScrollMode="never"
             android:scrollbarSize="0dp"
             app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
-
+            tools:listitem="@layout/item_list"
             />
     </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
     
