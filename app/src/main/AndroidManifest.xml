@@ -16,10 +16,10 @@
             android:name=".screen.ThirdScreenActivity"
             android:exported="false" />
         <activity
-            android:name=".screen.FirstScreenActivity"
+            android:name=".screen.SecondScreenActivity"
             android:exported="false" />
         <activity
-            android:name=".screen.SecondScreenActivity"
+            android:name=".screen.FirstScreenActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
