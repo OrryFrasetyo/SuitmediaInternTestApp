@@ -39,11 +39,12 @@ class FirstScreenActivity : AppCompatActivity() {
             showDialog(message)
         }
 
-//        binding.btnNext.setOnClickListener {
-//            val intent = Intent(this, SecondScreenActivity::class.java)
-//            intent.putExtra("showName", binding.etName.text.toString())
-//            startActivity(intent)
-//        }
+        binding.btnNext.setOnClickListener {
+            val intent = Intent(this, SecondScreenActivity::class.java)
+            intent.putExtra("showName", binding.etName.text.toString())
+            startActivity(intent)
+        }
+
     }
 
     private fun checkPalindrome(sentence: String): Boolean {
